@@ -17,6 +17,9 @@ for Q in range(0, 500, 1):
 plt.plot(output, x)
 plt.ylabel('E/V')
 plt.show()
+print('finish')
+
+
 
 
 
